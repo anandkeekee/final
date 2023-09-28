@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
+<<<<<<< HEAD
 |2,0,1695888076,,"wq!"
+=======
+|2,0,1695888315,,"wq!"
+>>>>>>> featurebranch
 
 # Search String History (newest to oldest):
 
@@ -25,27 +29,48 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  8  6  ~/file.txt
 |4,48,8,6,1695888076,"~/file.txt"
+=======
+'0  4  3  ~/file.txt
+|4,48,4,3,1695888315,"~/file.txt"
+>>>>>>> featurebranch
 '1  1  4  ~/file.txt
 |4,49,1,4,1695887710,"~/file.txt"
 '2  1  4  ~/file.txt
 |4,50,1,4,1695887710,"~/file.txt"
 
 # Jumplist (newest first):
+<<<<<<< HEAD
 -'  8  6  ~/file.txt
 |4,39,8,6,1695888076,"~/file.txt"
 -'  1  4  ~/file.txt
 |4,39,1,4,1695888050,"~/file.txt"
+=======
+-'  4  3  ~/file.txt
+|4,39,4,3,1695888315,"~/file.txt"
+-'  1  4  ~/file.txt
+|4,39,1,4,1695888287,"~/file.txt"
+>>>>>>> featurebranch
 -'  1  4  ~/file.txt
 |4,39,1,4,1695887710,"~/file.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/file.txt
+
 	*	1695888068	0
 	"	8	6
 	^	8	7
 	.	8	6
 	+	1	5
 	+	8	6
+
+	*	1695888310	0
+	"	4	3
+	^	4	4
+	.	4	3
+	+	1	5
+	+	4	3
+
